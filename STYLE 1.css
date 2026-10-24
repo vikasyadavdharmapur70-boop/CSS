@@ -1,0 +1,32 @@
+h1{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    color: blueviolet;
+    background-color: white;
+}
+
+body{
+    background-color:#f3ffc5;
+}
+
+*{
+    color: azure;
+}
+
+#heading one{
+       color: bisque;
+}
+
+#heading two{
+    color: blue;
+}
+
+#heading three{
+    color: blueviolet;
+}
